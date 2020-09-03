@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAndFiles", "ClassesA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingFileExample", "ReadingFileExample\ReadingFileExample.csproj", "{E4A94588-C8FD-493A-9F02-13506DF7D406}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreDifficultStudentExample", "MoreDifficultStudentExample\MoreDifficultStudentExample.csproj", "{EBB92DBA-D114-4C3B-AED4-D3D6F1FE35C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E4A94588-C8FD-493A-9F02-13506DF7D406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A94588-C8FD-493A-9F02-13506DF7D406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A94588-C8FD-493A-9F02-13506DF7D406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB92DBA-D114-4C3B-AED4-D3D6F1FE35C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB92DBA-D114-4C3B-AED4-D3D6F1FE35C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB92DBA-D114-4C3B-AED4-D3D6F1FE35C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB92DBA-D114-4C3B-AED4-D3D6F1FE35C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
